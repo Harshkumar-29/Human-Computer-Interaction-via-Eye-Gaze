@@ -61,7 +61,10 @@ Move your eyes to control the cursor
 Blink to perform a click
 
 📸 Demo
+## Demo
+![Eye Gaze Mouse Control Demo](demo.jpg)
 
+# Human Computer Interaction via Eye Gaze
 
 💡 Applications
 
